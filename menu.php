@@ -6,7 +6,7 @@
    echo "T1";
    echo "PRX";
    echo "Sentine;";
-   echo "cgrs"; 
+   echo "cgyugrs"; 
    echo "T1";
    echo "PRX";
    echo "Sentine;";

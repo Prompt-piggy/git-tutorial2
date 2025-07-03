@@ -3,7 +3,7 @@
    echo "One piece";
    echo "Naruto";
    echo "cgrs";
-   echo "T1";
+   echo "Thi1";
    echo "PRX";
    echo "Sentine;";
    echo "cgrs"; 
